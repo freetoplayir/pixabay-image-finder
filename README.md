@@ -5,10 +5,10 @@ A simple image finder app using pixabay API
 Axios
 MaterialUI
 
-## Lessons learned
+### Lessons learned
 How to use get method with axios
 Material UI for quick site set-up
 
-## Things could be improved or added
+### Things could be improved or added
 Nav Bar
 Download button
