@@ -1,11 +1,11 @@
 ## PIXABAY IMAGE FINDER
 A simple image finder app using pixabay API
 
-## Dependencies Used In This Project
+### Dependencies used in this project
 Axios
 MaterialUI
 
-## Lessons Learned
+## Lessons learned
 How to use get method with axios
 Material UI for quick site set-up
 
