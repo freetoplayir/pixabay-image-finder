@@ -2,8 +2,9 @@
 A simple image finder app using pixabay API
 
 ### Dependencies used in this project
-Axios
-MaterialUI
+react-react-app,
+Axios,
+MaterialUI,
 
 ### Lessons learned
 How to use get method with axios
